@@ -13,6 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=shreyash18tiwari3001-create&style=for-the-badge&color=2563EB" />
 </div>
 
+<p align="center">
+<a href="https://github.com/shreyash18tiwari3001-create"><img src="https://img.shields.io/badge/GitHub-Follow-forestgreen?style=flat&amp;logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/shreyash-tiwari-73a15a280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&amp;logo=Linkedin" alt="LinkedIn"></a>
+<a href="https://hashnode.com/@shreyash-3018"><img src="https://img.shields.io/badge/Hashnode-Follow-royalblue?style=flat&amp;logo=Hashnode" alt="Hashnode"></a>
+<a href="https://tryhackme.com/p/shreyash18tiwari3001"><img src="https://img.shields.io/badge/TryHackMe-Follow-crimson?style=flat&amp;logo=TryHackMe" alt="TryHackMe"></a>
+<a href="https://leetcode.com/u/shreyashtiwari3018/"><img src="https://img.shields.io/badge/LeetCode-Follow-orange?style=flat&amp;logo=LeetCode" alt="LeetCode"></a>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -118,14 +126,13 @@ Always learning. Always building. Always open to collaboration.
 
 <a href="https://github.com/shreyash18tiwari3001-create"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:shreyash18tiwari3001@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shreyash-tiwari-73a15a280/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="YOUR_X_URL"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="YOUR_DISCORD_URL"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://x.com/shreyash_2007"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 
 </div>
-
-> Replace `YOUR_LINKEDIN_URL`, `YOUR_INSTAGRAM_URL`, `YOUR_X_URL`, and `YOUR_DISCORD_URL` with your profile links anytime.
 
 ---
 
