@@ -65,7 +65,7 @@ Always learning. Always building. Always open to collaboration.
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create-shreyash18tiwari3001-create/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 ---
 
