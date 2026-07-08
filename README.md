@@ -79,15 +79,32 @@ Always learning. Always building. Always open to collaboration.
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shreyash18tiwari3001-create&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash18tiwari3001-create&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+    📊 GitHub Statistics
+## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GitHub Statistics
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyash18tiwari3001-create&theme=github-dark-blue&hide_border=true" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyash18tiwari3001-create&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+</p>
 
+🔥 GitHub Streak
+## <img src="https://img.icons8.com/fluency/48/fire-element.png" width="30"/> GitHub Streak
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=shreyash18tiwari3001-create&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+💻 Top Languages
+## <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Top Languages
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash18tiwari3001-create&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+🏆 GitHub Trophies
+## <img src="https://img.icons8.com/fluency/48/trophy.png" width="30"/> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyash18tiwari3001-create&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+</p>
 ---
 
 ## 🏆 Certifications
