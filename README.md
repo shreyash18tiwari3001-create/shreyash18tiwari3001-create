@@ -89,8 +89,9 @@ Always learning. Always building. Always open to collaboration.
 ## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/> GitHub Statistics
 
 <div align="center">
-
-<img src="https://github.com/shreyash18tiwari3001-create/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats">
+<a href="https://github.com/shreyash18tiwari3001-create">
+  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api?username=shreyash18tiwari3001-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
+</a>
 
 </div>
 
