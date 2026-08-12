@@ -90,14 +90,11 @@ Always learning. Always building. Always open to collaboration.
 
 <div align="center">
 
-<a href="https://github.com/shreyash18tiwari3001-create">
-  <img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api?username=shreyash18tiwari3001-create&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" />
-</a>
+<img src="https://github.com/shreyash18tiwari3001-create/GitHub-Stats-Card/blob/output/generated/overview.svg" alt="GitHub Stats">
 
 </div>
 
 ---
-
 
 
 ## <img src="https://img.icons8.com/fluency/48/fire-element.png" width="30"/> GitHub Streak
@@ -109,7 +106,7 @@ Always learning. Always building. Always open to collaboration.
 
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Top Languages
 <p align="center">
-<img height="180em" src="https://github-readme-stats-drab-one-12.vercel.app/api/top-langs/?username=shreyash18tiwari3001-create&layout=compact&theme=tokyonight&hide=jupyter%20notebook&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" />
+<img src="https://github.com/shreyash18tiwari3001-create/GitHub-Stats-Card/blob/output/generated/languages.svg" alt="Languages">
 </p>
 
 ## <img src="https://img.icons8.com/fluency/48/trophy.png" width="30"/> GitHub Trophies
