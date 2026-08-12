@@ -77,6 +77,12 @@ Always learning. Always building. Always open to collaboration.
 </div>
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
+</div>
+
 ## 📈 GitHub Analytics
 
   
@@ -92,11 +98,6 @@ Always learning. Always building. Always open to collaboration.
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shreyash18tiwari3001-create/shreyash18tiwari3001-create/output/github-contribution-grid-snake.svg" alt="Snake animation eating contributions" />
-</div>
 
 
 ## <img src="https://img.icons8.com/fluency/48/fire-element.png" width="30"/> GitHub Streak
