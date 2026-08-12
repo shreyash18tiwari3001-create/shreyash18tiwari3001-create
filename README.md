@@ -107,7 +107,8 @@ Always learning. Always building. Always open to collaboration.
 
 ## <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"/> Top Languages
 <p align="center">
-<img src="https://github.com/shreyash18tiwari3001-create/GitHub-Stats-Card/blob/output/generated/languages.svg" alt="Languages">
+ <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyash18tiwari3001-create&theme=midnight_purple" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyash18tiwari3001-create&theme=midnight_purple" />
 </p>
 
 ## <img src="https://img.icons8.com/fluency/48/trophy.png" width="30"/> GitHub Trophies
@@ -135,6 +136,11 @@ Always learning. Always building. Always open to collaboration.
 > Replace `YOUR_PROJECT_1_LINK`, `YOUR_PROJECT_2_LINK`, `YOUR_REPO_1`, and `YOUR_REPO_2` with your repositories.
 
 ---
+
+# ■ My GitHub Activity Game
+<p align="center">
+ <img src="assets/space-shooter.gif" width="100%" />
+</p>
 
 ## 🌌 Currently Exploring
 
